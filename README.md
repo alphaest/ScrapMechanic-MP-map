@@ -11,6 +11,7 @@ Using https://github.com/the1killer/sm_overview
 - Mark markers as complete
 - Meant to be used locally or privately hosted. No authorization
 
+![Example screenshot](https://github.com/alphaest/ScrapMechanic-MP-map/blob/main/sample.jpg)
 
 ## Requirements
 
